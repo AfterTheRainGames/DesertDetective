@@ -22,7 +22,7 @@
 ### **Movement System**  
 - Developed a smooth character movement system with basic walking and gravity-based mechanics.  
 - Implemented sprinting functionality using the Shift key for faster movement.  
-- Designed the system to be responsive and intuitive for exploration in the desert environment.
+- Designed the system to be responsive and intuitive for exploration in the dessert environment.
 
 ### **UI and Progression**  
 - Created a dynamic UI system to display the number of IDs unlocked, updating in real-time as the player progresses through the game.  
