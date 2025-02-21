@@ -7,7 +7,7 @@
 
 ---
 
-## Key Contributions as a Gameplay Engineer  
+## Key Contributions as a Gameplay Programmer  
 
 ### **Interactions System**  
 - Developed the core interaction system where the player engages with different objects in the environment, including clickable buttons and hidden objects.  
